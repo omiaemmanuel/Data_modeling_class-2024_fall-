@@ -2,7 +2,7 @@
 
 # Modeling Algorithms for Agricultural Data
 
-# Iterative Closest Point (ICP) basic c++ code 
+# Iterative Closest Point (ICP) basic c++ code using [PCL](https://pointclouds.org/) Library
 
 **Student**: Omia Emmanuel
 
