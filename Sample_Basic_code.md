@@ -1,17 +1,12 @@
 
-<style>
-r { color: Red }
-b { color: Blue }
-g { color: Green }
-</style>
 
-# <g>Modeling Algorithms for Agricultural Data</g> 
+# Modeling Algorithms for Agricultural Data
 
-# <r> Iterative Closest Point (ICP) basic c++ code </r> 
+# Iterative Closest Point (ICP) basic c++ code 
 
-**Student**: <g>Omia Emmanuel</g>
+**Student**: Omia Emmanuel
 
-**Instructor**: <g> Prof. Lee Wang-hee <g/>
+**Instructor**: Prof. Lee Wang-hee
 
 This code demonstrates using the Iterative Closest Point algorithm to determine if one PointCloud is just a rigid transformation of another by minimizing the distances between the points of two pointclouds and rigidly transforming them
 
