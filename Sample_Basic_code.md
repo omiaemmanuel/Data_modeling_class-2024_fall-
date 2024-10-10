@@ -13,8 +13,7 @@ This code demonstrates using the Iterative Closest Point algorithm to determine 
 
 ## The Code
 
-### Warning: You must build [pcl](https://pointclouds.org/) first if you want to run the example.  
-```cpp
+### Warning: You must build [pcl](https://pointclouds.org/) first if you want to run the example. 
 
 ```cpp
 #include <iostream>
