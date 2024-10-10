@@ -176,3 +176,6 @@ ICP has converged, score: 1.95122e-14
           0            0            0            1
 
 ```
+
+For more information on using pcl, refer to the [pcl tutorials](https://pcl.readthedocs.io/projects/tutorials/en/master/) and [api documentation](https://pointclouds.org/documentation/)
+An additional Wiki resource for developers is available at [https://github.com/PointCloudLibrary/pcl/wiki](https://github.com/PointCloudLibrary/pcl/wiki).
